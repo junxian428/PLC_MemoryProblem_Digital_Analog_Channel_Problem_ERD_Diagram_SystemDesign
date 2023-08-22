@@ -1,0 +1,3 @@
+# PLC_MemoryProblem_Digital_Analog_Channel_Problem_ERD_Diagram_SystemDesign_RequirementAnalysis
+
+![ProblemSolvingPLC drawio](https://github.com/junxian428/PLC_MemoryProblem_Digital_Analog_Channel_Problem_ERD_Diagram_SystemDesign_RequirementAnalysis/assets/58724748/0323b421-f207-4baf-8072-55c259822dc2)
